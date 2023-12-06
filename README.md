@@ -1,4 +1,6 @@
-### Hi there 👋
+![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=das-swarup&show_icons=true&count_private=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=das-swarup&langs_count=8&theme=dark&layout=donut)
 
 <!--
 **Das-Swarup/Das-Swarup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
